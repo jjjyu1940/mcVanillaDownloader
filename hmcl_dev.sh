@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# hmcl_dev.sh – HMCL 开发 & MC 原版下载器（纯 shell，无 Python）
+
 set -euo pipefail
 
 HMCL_DIR="${HMCL_DIR:-$HOME/HMCL}"
