@@ -1,5 +1,5 @@
-# MC 原版下载器 (Vanilla Downloader)
-
+# MC 原版下载器 (mcVanilla Downloader)
+# 工具正在测试中可能有大量bug
 一个**零 Python、零第三方运行时**的 Minecraft 原版客户端下载工具，下载结果可被 **PCL2 / HMCL / 官方启动器**直接识别。
 
 ## 特性
